@@ -38,3 +38,6 @@ db_filepath = "/Users/pinghou/Downloads/cybercarpentry2018/Project/hampt_rd_data
 2. Rscript install.r
     a. install.packages("caret")
     b. install.packages("randomForest")
+
+
+###link to the large data   https://www.hydroshare.org/resource//hydroshareuserZone/home/localHydroProxy/9e1b23607ac240588ba50d6b5b9a49b5/data/contents/hampt_rd_data.sqlite
