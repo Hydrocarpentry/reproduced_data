@@ -8,8 +8,10 @@ import os
 import sys
 import pandas as pd
 import numpy as np
+import matplotlib
+matplotlib.use('Agg')
 import sqlite3
-db_filepath = "/Users/rodolfoaguirre/Desktop/ProjectFolder/hampt_rd_data.sqlite"
+db_filepath = "/hampt_rd_data.sqlite"
 
 
 # In[2]:
