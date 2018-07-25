@@ -41,3 +41,7 @@ db_filepath = "/Users/pinghou/Downloads/cybercarpentry2018/Project/hampt_rd_data
 
 
 ###link to the large data   https://www.hydroshare.org/resource//hydroshareuserZone/home/localHydroProxy/9e1b23607ac240588ba50d6b5b9a49b5/data/contents/hampt_rd_data.sqlite
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Hydrocarpentry/reproduced_data.git/master)
+
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/Hydrocarpentry/reproduced_data.git/master
