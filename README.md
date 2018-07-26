@@ -1,3 +1,8 @@
+
+# Docker is available 
+
+# Singularity is available
+
 ### Finding the right files
 
 -- Scripts and data files are found in the following links:
